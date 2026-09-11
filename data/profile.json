@@ -1,0 +1,38 @@
+{
+    "name": "Bintang Briliansyah - Fresh Graduated Electronics Enggineering at Semarang State Polytechnic",
+    "description": "Fresh graduate in Electronic Engineering from Semarang State Polytechnic with a strong interest and practical experience in industrial automation, electrical systems, and technology-based solutions. Skilled in PLC programming, microcontroller development, IoT implementation, instrumentation, and electrical installation. Experienced in process engineering, project development, quality control, and technical troubleshooting through academic and professional experiences. Has contributed to designing customer-based projects, developing automation training systems, and supporting assembly and testing processes. In addition, gained hands-on experience in network installation and maintenance, electronic device repair, and field technical operations. Recognized as a fast learner, analytical thinker, and adaptable individual who enjoys solving technical challenges and continuously improving system performance and reliability. Passionate about contributing to industrial innovation and developing a professional career in automation, electronics, and electrical engineering.",
+
+    "profileImage": "images/bintang.jpeg",
+    "email": "bintangsolusindo@gmail.com",
+    "phone": "+62 (895) 3962-45452",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/bintang-briliansyah-5085a4429 "
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/bintangbriliansyah"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/_briliansyahh?igsh=YmhhZjduc3licmQy"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CV.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Programming PLC", "icon": "fas fa-microchip", "level": 90},
+        {"name": "Programming Microcontroller", "icon": "fas fa-microchip", "level": 80},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 80},
+        {"name": "3D/PCB Design", "icon": "fas fa-desktop", "level": 90},
+	{"name": "Electrical Installation", "icon": "fas fa-microchip", "level": 90},
+        {"name": "Troubleshooting", "icon": "fas fa-microchip", "level": 90},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
+    ]
+}

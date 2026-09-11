@@ -1,0 +1,30 @@
+[
+    {
+        "company": "Freelance dandanan_hp",
+		"logo":"images/hp.jpeg",
+        "position": "Technician Repair Phone",
+        "year": "2025 - Present",
+        "description": "Freelance Mobile Phone Technician with experience in troubleshooting, component replacement, and system repair. Skilled in diagnosing hardware issues and ensuring devices operate efficiently and reliably."
+    },
+	{
+        "company": "Intership at CV. SARANA CIPTA MEDIA",
+		"logo":"images/SARANA.jpeg",
+        "position": "Process Engineer",
+        "year": "1 September - 31 Desember 2025",
+        "description": "As a Process Engineer, I was involved in designing and developing customer-based projects, starting from requirement analysis and component selection to supporting assembly and implementation processes. I contributed to quality control activities to ensure product reliability and functionality, while also developing and programming PLC and microcontroller-based training systems. In addition, I participated in creating automation learning modules and delivering technical training sessions for vocational high schools, combining technical expertise with practical knowledge transfer."
+    },
+    {
+        "company": "CV. DUA TEKNIK",
+		"logo":"images/DUA.jpeg",
+        "position": "Technician's Asssistant",
+        "year": "1 Juni - 1 Agustus 2023",
+        "description": "As an Electronic Device Technician, I was involved in troubleshooting, repairing, and maintaining electronic appliances, including air conditioners, LED TVs, and washing machines. I performed preventive maintenance, system inspections, and component replacement to ensure optimal performance and reliability while applying technical and problem-solving skills in field operations."
+    },
+	{
+        "company": "Intership at PT. Telkom Indonesia",
+		"logo":"images/telkom.jpeg",
+        "position": "Wifi Technician and Werehouse Administrator",
+        "year": "1 Juli - 31 September 2022",
+        "description": "Responsible for installing, checking, and troubleshooting customer WiFi networks to ensure optimal connectivity. Also handled warehouse administration tasks, including recording and managing network equipment inventory and ensuring the availability of operational devices."
+    }
+]

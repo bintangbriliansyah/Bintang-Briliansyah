@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Semarang State Polythecnic",
+		"logo": "images/polines-logo.png",
+        "major": "Associate of Electronics Engineering",
+        "year": "2023 - 2026",
+        "description": "GPA 3.64 of 4.00; Electronics Enggineering student at Semarang State Polytechnic. Focused on Electronic Engineering with expertise in industrial automation, PLC programming, microcontrollers, IoT, and electrical systems. Passionate about developing efficient technology solutions and continuously improving technical skills through hands-on projects and practical experience. I obtained an industrial automation competency certificate."
+    },
+    {
+        "university": "SMK NU Ungaran",
+		"logo": "images/smk.jpg",
+        "major": "Computer and Network Engineering",
+        "year": "2020 - 2023",
+        "description": "GPA 85 of 100; Focused on Computer and Network Engineering with knowledge in computer systems, network installation, troubleshooting, and network configuration. Passionate about technology development and continuously improving technical skills through practical experience and hands-on projects."
+    }
+]

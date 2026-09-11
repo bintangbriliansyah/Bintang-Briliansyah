@@ -1,0 +1,83 @@
+[
+    {
+        "title": "HMI SCADA TRAINING SYSTEM",
+        "year": "2025",
+        "partner": "Intership CV Sarana Cipta Media",
+        "role": "Process Engineer",
+        "description": "In this project I am responsible for product design, product assembly, and PLC and HMI programming.",
+        "image": "images/scada.jpeg",
+        "link": "https://example.com/solar-water"
+    },
+    {
+        "title": "Trainer Programmable Logic Controller",
+        "year": "2025",
+        "partner": "Intership CV Sarana Cipta Media",
+        "role": "Process Engineer",
+        "description": "Designing acrylic products, including 3D modeling, developing PLC programs and assembling electrical systems.",
+        "image": "images/plc.jpeg",
+        "link": "https://example.com/assembly-optimization"
+    },
+	{
+        "title": "Solar Tracker",
+        "year": "2025",
+        "partner": "Politeknik Negeri Semarang",
+        "role": "Engineer Project",
+        "description": "Designing and creating an IoT-based solar tracker project for the electronics project course in semester 4.",
+        "image": "images/solar.jpeg",
+        "link": "https://example.com/assembly-optimization"
+    },
+    {
+        "title": "Basic Pneumatic Training System",
+        "year": "2025",
+        "partner": "Intership CV Sarana Cipta Media",
+        "role": "Process Engineer",
+        "description": "Create specifications for the required components, assemble the project, and create a test circuit.",
+        "image": "images/pne.jpeg",
+        "link": "https://example.com/solar-water"
+    },
+	{
+        "title": "INTERNET OF THINGS (IOT) TRAINER",
+        "year": "2025",
+        "partner": "Intership CV Sarana Cipta Media",
+        "role": "Process Engineer",
+        "description": "Create specifications for the required components, assemble the project, create PLC and HMI programs, and create test circuits.",
+        "image": "images/iot.jpeg",
+        "link": "https://example.com/solar-water"
+    },
+	{
+        "title": "IoT-Based Monitoring and Automatic Watering System for Napa Cabbage",
+        "year": "2026",
+        "partner": "Politeknik Negeri Semarang",
+        "role": "Technical Support",
+        "description": "Developing an IoT-based system for automatic plant watering, routine scheduling, and soil moisture monitoring.",
+        "image": "images/sawi.jpeg",
+        "link": "https://example.com/solar-water"
+    },
+	{
+        "title": "Burglar Detection Security System",
+        "year": "2024",
+        "partner": "Politeknik Negeri Semarang",
+        "role": "Engineer Project",
+        "description": "This system can provide security like in a shop, by using laser light, if someone passes the laser an alarm will sound.",
+        "image": "images/alarm.jpeg",
+        "link": "https://example.com/solar-water"
+    },
+	{
+        "title": "Trainer Water Level With Labview",
+        "year": "2025",
+        "partner": "Politeknik Negeri Semarang",
+        "role": "Engineer Project",
+        "description": "Developed a water level system for a 4th-semester final project using arduino and labview.",
+        "image": "images/water.jpeg",
+        "link": "https://example.com/solar-water"
+    },
+	{
+        "title": "Car RC",
+        "year": "2025",
+        "partner": "freelance from Unwahas students",
+        "role": "Programming",
+        "description": "Jockeying the RC car program for the Unwahas student mechatronics project.",
+        "image": "images/rc.jpeg",
+        "link": "https://example.com/solar-water"
+	}
+]
